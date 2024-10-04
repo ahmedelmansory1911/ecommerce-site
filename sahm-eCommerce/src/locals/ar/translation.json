@@ -1,0 +1,37 @@
+
+   {
+    "home": "الصفحة الرئيسية",
+    "shop": "التسوق",
+    "My Account": "حسابي",
+    "Currency": "العملة",
+    "Language": "اللغة",
+   
+ 
+    "search_placeholder": "ابحث...",
+    "Category": "الفئة",
+ 
+ 
+    "top_category": "الفئة الأعلى",
+    "trending_products": "المنتجات الرائجة",
+    "specials": "عروض خاصة",
+    "latest_blog": "المدونة الأخيرة",
+ 
+    "add_to_cart": "أضف إلى السلة",
+    "read_more": "اقرأ المزيد",
+    "submit": "إرسال",
+
+    "Contact_us": "اتصل بنا",
+    "Extras": "الإضافات",
+    "Information": "معلومات",
+   
+    "Newsletter_signup": "اشترك في النشرة الإخبارية",
+
+    "Address": "42 منزل الأحلام، شارع دريممي، 7131 دريمفيل، الولايات المتحدة",
+    "Email": "company@gmail.com",
+    "Phone": "456-456-4512",
+    "Social_media": "تابعونا على وسائل التواصل الاجتماعي",
+
+    "Download_Our_App": "قم بتنزيل تطبيقنا",
+    "Powered_by": "مشغل بواسطة OpenCart2024"
+  
+}

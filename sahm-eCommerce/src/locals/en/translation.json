@@ -1,0 +1,35 @@
+ {
+    "Home": "Home",
+    "shop": "Shop",
+    "My Account": "My Account",
+    "Currency": "Currency",
+    "Language": "Language",
+
+    "search_placeholder": "Search...",
+    "category": "Category",
+ 
+    "top_category": "Top Category",
+    "trending_products": "Trending Products",
+    "specials": "Specials",
+    "latest_blog": "Latest Blog",
+ 
+    "add_to_cart": "Add to Cart",
+    "read_more": "Read More",
+    "submit": "Submit",
+ 
+    "contact_us": "Contact Us",
+    "Extras": "Extras",
+    "Information": "Information",
+    "my_account": "My Account",
+    "newsletter_signup": "Sign Up For Newsletter",
+
+    "address": "42 Dream House, Dreammy Street, 7131 Dreamville, USA",
+    "email": "company@gmail.com",
+    "phone": "456-456-4512",
+    "social_media": "Follow Us On Social Media",
+
+    "download_app": "Download Our App",
+    "powered_by": "Powered By OpenCart2024"
+  
+
+}
